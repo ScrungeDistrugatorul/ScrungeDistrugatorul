@@ -1,5 +1,3 @@
-# Preview
-
 ## Contact information
 [![Linkedin](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/adrian-georgiev-8b9134234/)
 [![Itchio](https://img.shields.io/badge/Itch.io-Itchio?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=%23FA5C5C&color=%23FA5C5C)](https://adrian-georgiev.itch.io/)
