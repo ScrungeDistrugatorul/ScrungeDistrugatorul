@@ -1,9 +1,9 @@
 # Preview
 
 ## Contact information
-Linkedin - https://www.linkedin.com/in/adrian-georgiev-8b9134234/
+[![Linkedin](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/adrian-georgiev-8b9134234/)
+[![Itchio](https://img.shields.io/badge/Itch.io-Itchio?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=%23FA5C5C&color=%23FA5C5C)](https://adrian-georgiev.itch.io/)
 
-Itch.io - https://adrian-georgiev.itch.io/
 
 ## About me
 I am Adrian and I am currently studying **Creative Media and Game Technologies** at **Saxion University of Applied Sciences**.
@@ -15,13 +15,18 @@ I started by using the code block in Scratch. I would spend hours fiddling and m
 After starting university I really started trying out different things. I started learning C#, C++, HTML and CSS, Processing, Unity. I am also trying to learn pixel art and basic 3d modeling. I do not have a lot of experience but my motivation and passion for creating games keeps growing and I am more than willing to throw myself into the deep and learn or improve my skills.
 
 ## Skills
-+ C#
-+ C++
-+ HTML and CSS
-+ Unity
-+ GitHub
-+ Visual Studio and Visual Studio Code
-+ Rider
+![C#](https://img.shields.io/badge/C%23-csharp?style=for-the-badge&logo=csharp&logoColor=white&labelColor=%23239120&color=%23239120)
+![C++](https://img.shields.io/badge/C%2B%2B-cplusplus?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=%2300599C&color=%2300599C)
+![HTML5](https://img.shields.io/badge/HTML-html5?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
+
+![Rider](https://img.shields.io/badge/Rider-rider?style=for-the-badge&logo=rider&logoColor=white&labelColor=%23FF0000&color=%23FF0000)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-visualstudio?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=%235C2D91&color=%235C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-visualstudiocode?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=%23007ACC)
+
+![Unity](https://img.shields.io/badge/Unity-unity?style=for-the-badge&logo=unity&logoColor=white&labelColor=%23000000&color=%23000000)
+![GitHub](https://img.shields.io/badge/GitHub-github?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000000&color=%23000000)
+
+
 
 
 <!--
